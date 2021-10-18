@@ -8,4 +8,4 @@ Also I used this tool: https://griddy.io/ cause it's my second time to use the g
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: 
+Live: https://zer0fr0st93.github.io/Social-Proof-Section/
